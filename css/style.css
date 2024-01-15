@@ -108,6 +108,9 @@ ul > li{
     font-weight: 300;
 }
 
+#hhh {
+    width: 550px;
+}
 
 /* ------ Helper Classes -------------- */
 
@@ -1032,6 +1035,9 @@ i {
     .js_frm_subscribe form{
         margin-top: 12%;
     }
+    #hhh {
+    width: 400px;
+}
 }
 @media only screen and (max-width: 480px){
     .main-timeline .title{
@@ -1071,6 +1077,9 @@ i {
 	.p-5{
 		padding: 1rem !important;
 	}
+    #hhh {
+    width: 400px;
+    }
 }
 /* --------------------------
 :: 9. Services Section CSS
@@ -2545,3 +2554,5 @@ footer{
 .ri {
     text-align: right;
 }
+
+
